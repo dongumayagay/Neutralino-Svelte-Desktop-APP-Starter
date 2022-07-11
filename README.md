@@ -1,4 +1,19 @@
-to run dev
+# Setup
+
+in svelte directory run
+
+```
+npm i (pnpm i)
+npm run build
+```
+
+in root directory
+
+```
+neu update
+```
+
+# Dev
 
 in svelte directory run
 
@@ -12,7 +27,7 @@ then in root directory run
 neu run --frontend-lib-dev
 ```
 
-to build run
+# Build
 
 in svelte diretory run
 
