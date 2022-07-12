@@ -29,6 +29,11 @@ neu run --frontend-lib-dev
 
 # Build
 
+before
+in index.html ensure the neutralino script tag is
+
+<script src="/neutralino.js"></script>
+
 in svelte diretory run
 
 ```
